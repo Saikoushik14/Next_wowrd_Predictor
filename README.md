@@ -94,7 +94,7 @@ Predicted Next Word
 Clone the repository:
 
 ```bash
-git clone <repository_link>
+git clone <[repository_link](https://github.com/Saikoushik14/Next_wowrd_Predictor)>
 ```
 
 Move to the project directory:
